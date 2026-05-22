@@ -45,8 +45,8 @@ Copyright &copy; 2026 Beno. 内容原创.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-   { "🏠 Get started" = "REAME.md" },
-   {"网站完善" = "index.md"},
+   { "🏠 Get started" = "index.md" },
+   {"网站完善" = "zensical.md"},
    { "生活随笔" = "LIFE.md" },
    {"一些新奇的想法" = "THOUGHTS.md"},
    {"学习日志" = "BLOG.md"},
