@@ -1,3 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+      <url>
+        <loc>https://benobo.me/REAME/</loc>
+      </url>
+      <url>
+        <loc>https://benobo.me/</loc>
+      </url>
+      <url>
+        <loc>https://benobo.me/LIFE/</loc>
+      </url>
+      <url>
+        <loc>https://benobo.me/THOUGHTS/</loc>
+      </url>
+      <url>
+        <loc>https://benobo.me/BLOG/</loc>
+      </url>
 </urlset>

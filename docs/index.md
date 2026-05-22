@@ -3,7 +3,7 @@ icon: lucide/rocket
 ---
 
 # Get started
-
+本文件为的Zensical使用文档。
 For full documentation visit [zensical.org](https://zensical.org/docs/).
 
 ## Commands

@@ -34,7 +34,7 @@ site_url = "https://benobo.me/"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright &copy; 2026 Beno. Powered by Zensical.
+Copyright &copy; 2026 Beno. 内容原创.
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
@@ -44,10 +44,14 @@ Copyright &copy; 2026 Beno. Powered by Zensical.
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
-# nav = [
-#   { "🏠 首页" = "index.md" },
-#   { "搭建流程" = "markdown.md" },
-# ]
+nav = [
+   { "🏠 Get started" = "REAME.md" },
+   {"网站完善" = "index.md"},
+   { "生活随笔" = "LIFE.md" },
+   {"一些新奇的想法" = "THOUGHTS.md"},
+   {"学习日志" = "BLOG.md"},
+   {"contact me" = "不许联系.md"},
+ ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
