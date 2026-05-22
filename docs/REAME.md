@@ -1,4 +1,6 @@
 # 项目介绍
+本项目文件架构基本源码可移步GitHub仓库benoqawai-web/benoqawai-web.github.io访问
+https://github.com/benoqawai-web/benoqawai-web.github.io
 本项目为个人博客网站，采用Zensical打包+Github托管，以域名benobo.me呈现，依照仓库Wcowin/Zensical-Chinese-Tutorial相关教程搭建，用来记录个人学习过程，技术分享，书籍分享，生活随笔。核心目的是搭建自我表达的个人空间，利用互联网可视化空间展出。
 # 仓库描述与搭建过程
 ## 基本架构与操作流程：
