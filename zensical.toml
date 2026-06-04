@@ -51,6 +51,7 @@ nav = [
    {"一些新奇的想法" = "THOUGHTS.md"},
    {"学习日志" = "BLOG.md"},
    {"contact me" = "不许联系.md"},
+   {"Dijkstra算法" = "Dijkstra.md"},
  ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
